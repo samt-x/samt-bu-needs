@@ -4,6 +4,9 @@ title: 25. Nasjonale prøver og kartlegginger
 weight: 330
 status: Tidlig utkast
 # Gyldige verdier: Ny | Tidlig utkast | Pågår | Til QA | Godkjent | Avbrutt
+lastmod: 2026-07-23T12:53:07+02:00
+last_editor: 2benMoen (2benMoen)
+
 ---
 ## Beskrivelse av case
 

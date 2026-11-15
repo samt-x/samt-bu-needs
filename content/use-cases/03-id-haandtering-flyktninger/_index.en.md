@@ -13,6 +13,8 @@ toc: true
 # ⏺ Approved
 # ⨂ Cancelled
 status: "Early draft"
+lastmod: 2026-11-02T21:35:54+01:00
+last_editor: Erik Hagen
 
 ---
 ***This case is also covered by case 26 - National service for identification of persons in education (education person register)***

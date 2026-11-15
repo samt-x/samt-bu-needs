@@ -6,6 +6,8 @@ linkTitle: 1. Results from Upper Secondary
 weight: 90
 toc: true
 status: In progress
+lastmod: 2026-07-22T13:27:09+02:00
+last_editor: 2benMoen (2benMoen)
 
 ---
 ## Who submitted this as a case the SAMT-BU project should address

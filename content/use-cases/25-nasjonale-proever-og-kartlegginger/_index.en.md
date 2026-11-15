@@ -4,6 +4,9 @@ title: 25. National tests and mapping assessments
 weight: 330
 status: Early draft
 # Valid values: New | Early draft | In progress | For QA | Approved | Cancelled
+lastmod: 2026-11-02T21:35:54+01:00
+last_editor: Erik Hagen
+
 ---
 ## Description of the case
 

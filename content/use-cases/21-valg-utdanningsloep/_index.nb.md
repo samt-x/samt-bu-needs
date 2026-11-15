@@ -6,6 +6,8 @@ linkTitle: 21. Valg av utdanningsløp
 weight: 290
 toc: true
 status: Pågår
+lastmod: 2026-07-22T13:27:09+02:00
+last_editor: 2benMoen (2benMoen)
 
 ---
 ## Kort beskrivelse

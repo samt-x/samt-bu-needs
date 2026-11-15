@@ -3,6 +3,9 @@ id: 9d0e9d94-c96e-49d6-8668-e933da95c8b2
 title: 24. Utrede/teste register med elevinformasjon
 weight: 320
 status: Ny
+lastmod: 2026-07-22T13:27:09+02:00
+last_editor: 2benMoen (2benMoen)
+
 ---
 Foreløpig beskrivelse (Torbjørn): 
 

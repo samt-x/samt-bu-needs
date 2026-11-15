@@ -4,6 +4,9 @@ title: 27. National education register
 weight: 350
 status: Early draft
 # Valid values: New | Early draft | In progress | For QA | Approved | Cancelled
+lastmod: 2026-11-02T21:35:54+01:00
+last_editor: Erik Hagen
+
 ---
 ## Case description – National education register
 

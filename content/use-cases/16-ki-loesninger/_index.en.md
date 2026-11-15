@@ -13,6 +13,8 @@ toc: true
 # ⏺ Approved
 # ⨂ Cancelled
 status: New
+lastmod: 2026-11-02T21:35:54+01:00
+last_editor: Erik Hagen
 
 ---
 ## Preliminary description

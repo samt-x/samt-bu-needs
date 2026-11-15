@@ -13,6 +13,8 @@ toc: true
 # ⏺ Godkjent
 # ⨂ Avbrutt
 status: Pågår
+lastmod: 2026-08-06T10:14:23+02:00
+last_editor: KjerstiSteien (KjerstiSteien)
 
 ---
 ## Beskrivelse av case

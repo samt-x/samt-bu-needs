@@ -6,6 +6,8 @@ linkTitle: 1. Resultater fra opplæring
 weight: 90
 toc: true
 status: Pågår
+lastmod: 2026-07-22T13:27:09+02:00
+last_editor: 2benMoen (2benMoen)
 
 ---
 ## Hvem har spilt inn dette som en case prosjektet SAMT–BU bør jobbe med

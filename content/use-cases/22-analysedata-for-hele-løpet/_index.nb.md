@@ -7,6 +7,8 @@ weight: 300
 toc: true
 status: Tidlig utkast
 # Gyldige statusverdier: Ny | Tidlig utkast | Pågår | Til QA | Godkjent | Avbrutt
+lastmod: 2026-07-28T17:18:57+02:00
+last_editor: Erik Hagen
 
 ---
 ## Kort beskrivelse

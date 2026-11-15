@@ -6,6 +6,8 @@ linkTitle: 2. Overgang grunnskole–VGO
 weight: 100
 toc: true
 status: Til QA
+lastmod: 2026-08-05T13:55:56+02:00
+last_editor: KjerstiSteien (KjerstiSteien)
 
 ---
 ### *Casen/Piloten vurderes videreført fra august 2026*\\

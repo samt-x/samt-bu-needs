@@ -7,6 +7,8 @@ weight: 280
 toc: true
 status: Ny
 # Gyldige statusverdier: Ny | Tidlig utkast | Pågår | Til QA | Godkjent | Avbrutt
+lastmod: 2026-07-22T13:27:09+02:00
+last_editor: 2benMoen (2benMoen)
 
 ---
 ***Denne dekkes av case 1***

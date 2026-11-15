@@ -4,5 +4,8 @@ title: 23. Manglende tilgang for foreldre og foresatte til digitale tjenester
 weight: 310
 status: Ny
 # Gyldige verdier: Ny | Tidlig utkast | Pågår | Til QA | Godkjent | Avbrutt
+lastmod: 2026-07-28T17:19:06+02:00
+last_editor: Erik Hagen
+
 ---
 Foreløpig beskrivelse (Torbjørn/Erik): Se [omtale av artikkel i Aftenposten 2026-03-18: Nav får sterk kritikk for manglende digital tilgang for foreldre](https://docs.samt-bu.no/innsikt/aktuelle-medieoppslag/2026-03-18-nav-faar-sterk-krikk-for-manglende-digital-tilgang-for-foreldre/).

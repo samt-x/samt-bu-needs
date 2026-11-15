@@ -6,6 +6,8 @@ linkTitle: 5. Samtykkeportal
 weight: 130
 toc: true
 status: Ny
+lastmod: 2026-07-22T13:27:09+02:00
+last_editor: 2benMoen (2benMoen)
 
 ---
 

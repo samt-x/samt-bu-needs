@@ -13,6 +13,8 @@ toc: true
 # ⏺ Godkjent
 # ⨂ Avbrutt
 status: Tidlig utkast
+lastmod: 2026-07-28T17:18:57+02:00
+last_editor: Erik Hagen
 
 ---
 ## Beskrivelse av caset

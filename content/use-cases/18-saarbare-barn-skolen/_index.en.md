@@ -6,6 +6,8 @@ linkTitle: "18. UDE Oslo"
 weight: 260
 toc: true
 status: "Early draft"
+lastmod: 2026-07-22T13:27:09+02:00
+last_editor: 2benMoen (2benMoen)
 
 ---
 

@@ -13,6 +13,8 @@ toc: true
 # ⏺ Approved
 # ⨂ Cancelled
 status: Early draft
+lastmod: 2026-11-02T21:35:54+01:00
+last_editor: Erik Hagen
 
 ---
 ## Description of the case submitted to the SAMT-BU project

@@ -4,6 +4,9 @@ title: "28. Communication and data sharing between parents, kindergartens and ch
 weight: 360
 status: New
 # Valid values: New | Early draft | In progress | For QA | Approved | Cancelled
+lastmod: 2026-11-02T21:35:54+01:00
+last_editor: Erik Hagen
+
 ---
 ***This is partly covered by case 11***
 

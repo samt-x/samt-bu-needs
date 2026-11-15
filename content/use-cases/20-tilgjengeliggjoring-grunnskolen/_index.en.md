@@ -8,6 +8,8 @@ toc: true
 status: "New"
 draft: false
 # Valid status values: New | Early draft | In progress | For QA | Approved | Cancelled
+lastmod: 2026-07-22T13:27:09+02:00
+last_editor: 2benMoen (2benMoen)
 
 ---
 

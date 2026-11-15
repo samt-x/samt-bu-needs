@@ -13,6 +13,8 @@ toc: true
 # ⏺ Godkjent
 # ⨂ Avbrutt
 status: Tidlig utkast
+lastmod: 2026-08-06T09:45:16+02:00
+last_editor: KjerstiSteien (KjerstiSteien)
 
 ---
 ***Dette caset dekkes også av case 26 - Nasjonal tjeneste for identifikasjon av personer i utdanning (utdanningspersonregister)***
