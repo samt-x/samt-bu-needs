@@ -29,3 +29,9 @@ This is, however, a big challenge, and it will take a fair amount of resources t
 So, to be concrete, my suggestion is that, if there is room for it, a dedicated pilot could be devoted to looking at this specifically. We need to find out more about what it should be, who it is important to involve, and so on. The important thing in any case is that in that pilot the legal aspect must not be a supporting process, but the main deliverable that everything else scales out from.
 
 That probably wasn't very clear. We can have a chat about it if you like
+
+\###
+
+Johann Finnur Sigurvinsson Olafsson (Digdir), May 2026:
+
+The same need applies to children in kindergarten – among other things for reduced parental fees when a child attends a kindergarten outside their home municipality, and for operating grants based on each child's history. See [his comment (samt-bu-needs#1)](https://github.com/samt-x/samt-bu-needs/issues/1).

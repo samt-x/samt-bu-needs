@@ -28,3 +28,9 @@ Dette er imidlertid en stor utfordring, og det vil kreve en del ressurser å se 
 Så for å konkretisere er innspillet mitt om man hvis det er rom for det, kan vie en egen pilot der man ser på dette spesifikt. Må finne ut mer om hva det skal være, og hvem som er viktig å få med og sånn. Det viktige er uansett i at i den piloten må ikke det juridiske være en støtteprosess, men hovedleveransen man skalerer ut fra.
 
 Det ble sikkert ikke så forståelig. Vi kan gjerne ta en prat om det, hvis du vil
+
+\###
+
+Johann Finnur Sigurvinsson Olafsson (Digdir), mai 2026:
+
+Det samme behovet gjelder barn i barnehage – blant annet for redusert foreldrebetaling når barnet går i barnehage utenfor bostedskommunen, og for tilskudd til drift ut fra historikken for hvert barn. Se [kommentaren hans (samt-bu-needs#1)](https://github.com/samt-x/samt-bu-needs/issues/1).
