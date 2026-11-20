@@ -46,7 +46,7 @@ Municipalities provide services to persons who are not yet registered with a D-n
 
 ## Consequences of the current situation
 
-Municipalities have a duty to provide persons with certain services, such as a place in a nursery or a school place, even when those persons do not have an identity number in the National Population Register.
+Municipalities have a duty to provide persons with certain services, such as a kindergarten place or a school place, even when those persons do not have an identity number in the National Population Register.
 
 When persons subsequently receive an identity number in the National Population Register, there is no automatic mechanism by which the municipality can say with certainty that new person objects imported from the register are, with 100% confidence, the same as those the municipality has registered in its various systems using a fictitious number. Only a match in name and address can provide some degree of indication of this. In the worst case, errors can occur. The situation is somewhat simpler when a child subsequently receives a D-number or national identity number, as the parental relationships are generally included in the data flow from the National Population Register at that point. Unfortunately, this often occurs long after the parents have received such a number in the register.
 
@@ -56,7 +56,7 @@ The identity number is generally the primary key for person objects. Without aut
 
 Fictitious numbers also do not provide access to log in to public IT systems via ID-porten.
 
-The health sector has progressed further towards a shared solution in this area, as we understand it, with something called a Help Number (Hjelpenummer). More about this can be read here, along with the challenges described, which are well comparable to those in other public sectors: https://www.nrk.no/norge/darlig-id-system-en-pasientfare-1.11425318
+The health sector has progressed further towards a shared solution in this area, as we understand it, with something called an auxiliary number (Hjelpenummer). More about this can be read here, along with the challenges described, which are well comparable to those in other public sectors: https://www.nrk.no/norge/darlig-id-system-en-pasientfare-1.11425318
 
 ## Desired situation
 
@@ -66,9 +66,9 @@ This identity is established as a fully valid member of the identity management 
 
 ## Insight work
 
-The health sector's experience with the Help Number (H-number) and the personal identification service, which is an established parallel in another sector and an important source of learning regarding both benefits and challenges
+The health sector's experience with the auxiliary number (H-number) and the personal identification service, which is an established parallel in another sector and an important source of learning regarding both benefits and challenges
 
-The new national digitalization strategy, which clearly points to the need for joint identity and access management across sectors.
+The new national digitalisation strategy, which clearly points to the need for joint identity and access management across sectors.
 
 ## Project objectives addressed
 

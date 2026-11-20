@@ -5,11 +5,19 @@ title: "18. Input from the City of Oslo Education Agency"
 linkTitle: "18. UDE Oslo"
 weight: 260
 toc: true
+# Valid status values:
+# ◍ New
+# ◔ Early draft
+# ◐ In progress
+# ◕ For QA
+# ⏺ Approved
+# ⨂ Cancelled
 status: "Early draft"
 lastmod: 2026-07-22T13:27:09+02:00
 last_editor: 2benMoen (2benMoen)
 
 ---
+***This is covered by case 10***
 
 ## Brief Description
 
@@ -17,7 +25,7 @@ Input from the City of Oslo Education Agency (UDE), including insight work relat
 
 ## The Current Problem
 
-Today, the legal obligations of services and the rights of users are perceived to be in conflict with each other (e.g. the statutory duty of prevention and early intervention, holistic and coordinated follow-up, versus the right to privacy with its associated rules on information sharing). The legal provisions governing information sharing, confidentiality, and a user's independent age of consent also vary between services. There is a significant need for greater clarity and a simpler overview. Uncertainty does not produce good practice. Consent-based information sharing is an obvious and important prerequisite for good follow-up, but deficiencies in motivation, linguistic, cultural, and digital competence among users can be an obstacle to obtaining necessary consents. Consistent use of plain language – including multiple languages (text, audio, and images) and simple usability – is therefore essential.
+Today, the legal obligations of services and the rights of users can be experienced as being in conflict with each other (e.g. the statutory duty of prevention and early intervention, holistic and coordinated follow-up, versus the right to privacy with its associated rules on information sharing). The legal provisions governing information sharing, confidentiality, and a user's independent age of consent also vary between services. There is a significant need for greater clarity and a simpler overview. Uncertainty does not produce good practice. Consent-based information sharing is an obvious and important prerequisite for good follow-up, but deficiencies in motivation, linguistic, cultural, and digital competence among users can be an obstacle to obtaining necessary consents. Consistent use of plain language – including multiple languages (text, audio, and images) and simple usability – is therefore essential.
 
 ## Key Insight Points
 

@@ -28,7 +28,7 @@ First, the education sector has a large proportion of foreign students, pupils a
 
 Second, municipalities and county authorities lack a shared solution for assigning temporary identifiers to children and young people who have not yet received a D-number or national identity number in the National Population Register. Municipalities are obliged to provide services such as kindergarten and school places regardless of whether the child is registered in the National Population Register, and currently solve this by creating fictitious national identity numbers according to their own rules – without coordination across organisations.
 
-The health sector has come further in this area by establishing its own "Auxiliary number" (H-number) and an associated person identification service. Sikt believes the education sector needs a corresponding shared service – an "education person register" – that makes it possible to identify all actors in education unambiguously and across sectors and levels of government.
+The health sector has come further in this area by establishing its own "Auxiliary number" (H-number) and an associated person identification service. Sikt believes the education sector needs a corresponding shared service – an "education person register" – that makes it possible to identify all actors in education unambiguously and across sectors and administrative levels.
 
 The investment proposal Sikt has sent to the Ministry of Education and Research for 2027 (ref. 25/00982-1) includes establishing precisely such a national service for identifying persons in education as one of three measures in a holistic national infrastructure for education and competence data.
 
@@ -42,7 +42,7 @@ To realise the full benefit potential of the education register and the competen
 
 Dimension 2 – Children and young people without ID in municipal services (the D-number problem):
 
-In the childhood and youth sector there is no shared solution for assigning ID numbers to persons who have not yet received a D-number or national identity number in the National Population Register. As a rule, parents receive a D-number in connection with paying tax, while it may take longer before children receive a D-number or national identity number. In the meantime, municipalities register fictitious national identity numbers according to their own rules – without coordination across municipalities, sectors or levels of government.
+In the childhood and youth sector there is no shared solution for assigning ID numbers to persons who have not yet received a D-number or national identity number in the National Population Register. As a rule, parents receive a D-number in connection with paying tax, while it may take longer before children receive a D-number or national identity number. In the meantime, municipalities register fictitious national identity numbers according to their own rules – without coordination across municipalities, sectors or administrative levels.
 
 The ID number is usually the primary key for person objects in all systems. Without automation or good control, duplicate person objects typically arise in several systems. Fictitious numbers also do not give access to log in to public IT systems via ID-porten.
 

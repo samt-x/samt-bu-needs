@@ -10,6 +10,7 @@ lastmod: 2026-08-05T13:56:13+02:00
 last_editor: KjerstiSteien (KjerstiSteien)
 
 ---
+### *The case/pilot is being considered for continuation from August 2026*
 
 ## Brief description
 
@@ -34,7 +35,7 @@ This means that information must be re-collected or re-assessed, and that follow
 Breakdowns occur in particular:
 
 * when responsibility shifts from the municipality to the county authority
-* when different services and levels of government have different understandings of concepts, roles, and responsibilities
+* when different services and administrative levels have different understandings of concepts, roles, and responsibilities
 * when specialist systems and work processes are not adapted for cross-agency collaboration
 * when there is uncertainty about what information may, should, or must be shared
 
@@ -80,7 +81,7 @@ Breakdowns occur in particular:
 * **KS Digital** – Operational actor for shared municipal digital solutions and interoperability.
 * **Sikt** – Delivers and manages shared services in the education sector, particularly at interfaces with further education.
 * **SSB** – Uses educational data for statistics, analysis, and insight.
-* **Novari** - Takes care of the county municipalities' need for digital services and develops, among other things, shared services for upper secondary education for all county municipalities.
+* **Novari** – Looks after the county authorities' need for digital services and develops, among other things, shared components for upper secondary education for all county authorities.
 
 ## Consequences of the current situation
 
@@ -103,7 +104,7 @@ Breakdowns occur in particular:
 
 ### At system level
 
-The consequences are felt at both individual and system level. Pupils may experience disruptions in follow-up; staff spend time compensating for the lack of coherence; and organisations see reduced impact from measures that have already been put in place. The challenges are to a limited extent about a lack of effort or will, but rather about structural barriers such as fragmented systems, unclear interfaces, and the absence of shared frameworks for information sharing.
+The consequences are felt at both individual and system level. Pupils may experience disruptions in follow-up; staff spend time compensating for the lack of coherence; and organisations see reduced impact from measures that have already been put in place. The challenges have little to do with a lack of effort or will, and more to do with structural barriers such as fragmented systems, unclear interfaces, and the absence of shared frameworks for information sharing.
 
 ## Desired situation
 
@@ -118,6 +119,6 @@ This case is based on earlier insight from work on coherent services for childre
 The case addresses in particular the following objectives:
 
 * Simpler and more coherent user journeys for pupils, parents and guardians, and staff throughout the educational pathway
-* Better interoperability and information flow across levels of government and sectors
+* Better interoperability and information flow across administrative levels and sectors
 * A better foundation for developing shared information models and reusable solutions
 * Learning and experience that can be transferred to other transitions in the lives of children and young people, and to other sectors

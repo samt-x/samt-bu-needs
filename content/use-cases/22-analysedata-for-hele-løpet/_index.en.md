@@ -16,11 +16,11 @@ last_editor: Erik Hagen
 
 There is a need for data from the entire education sector that can say something about «how things turned out» for different pupils – from kindergarten to adult education. Data is used at an aggregate level but must be based on individual data.
 
-Vestland County Municipality has established a solution for analysing data from sources including VIGO, which they share with the municipalities in the county. This case builds on what Vestland FK has already achieved and points to the need to extend this to cover the full educational pathway – and make equivalent solutions available to more actors.
+Vestland County Authority has established a solution for analysing data from sources including VIGO, which they share with the municipalities in the county. This case builds on what Vestland FK has already achieved and points to the need to extend this to cover the full educational pathway – and make equivalent solutions available to more actors.
 
 ### Who submitted this case?
 
-Vestland FK (Vestland County Municipality).
+Vestland FK (Vestland County Authority).
 
 ## The Problem Today
 
@@ -40,13 +40,13 @@ Breaks occur particularly:
 ### End users (of analysis data)
 
 * Municipalities – to assess the effect of interventions and plan resource use
-* County municipalities – to follow student flow and educational outcomes over time
+* County authorities – to follow student flow and educational outcomes over time
 * Political leadership at various levels – for evidence-based decision-making
 * Children, young people and guardians – indirectly, through better adapted services
 
 ### Service staff
 
-* Analysts and planners in municipalities and county municipalities
+* Analysts and planners in municipalities and county authorities
 * School leadership and advisors
 
 ### System vendors
@@ -70,7 +70,7 @@ Breaks occur particularly:
 ### Service providers
 
 * **Municipalities** – own and manage data from kindergarten and primary school
-* **County municipalities** – own and manage data from upper secondary education
+* **County authorities** – own and manage data from upper secondary education
 
 ### Coordinating and supporting actors
 
@@ -79,7 +79,7 @@ Breaks occur particularly:
 
 ## Consequences of the Current Situation
 
-### For end users (municipalities, county municipalities and political leadership)
+### For end users (municipalities, county authorities and political leadership)
 
 * Poor overview of the connections between different phases of life
 * Difficult to identify patterns and assess the effect of interventions across education levels
@@ -92,8 +92,8 @@ Breaks occur particularly:
 
 ### For organisations
 
-* Inefficient use of resources – the same work is done in parallel across many municipalities and county municipalities
-* Harder to collaborate on shared insights across municipalities and levels of government
+* Inefficient use of resources – the same work is done in parallel across many municipalities and county authorities
+* Harder to collaborate on shared insights across municipalities and administrative levels
 
 ### At system level
 
@@ -101,9 +101,9 @@ Without data covering the full educational pathway, it is difficult to measure t
 
 ## Desired Situation
 
-In a desired situation, municipalities and county municipalities can easily access coherent data from kindergarten, primary school, upper secondary and beyond – at an aggregate level that respects privacy, but based on individual data. This provides a real basis for assessing the effect of interventions over time, identifying patterns across education levels and planning resource use in a targeted way.
+In a desired situation, municipalities and county authorities can easily access coherent data from kindergarten, primary school, upper secondary and beyond – at an aggregate level that respects privacy, but based on individual data. This provides a real basis for assessing the effect of interventions over time, identifying patterns across education levels and planning resource use in a targeted way.
 
-Analytical capacity that today exists only in well-resourced county municipalities (such as Vestland FK) should be made available to all municipalities – regardless of size or their own technical resources.
+Analytical capacity that today exists only in well-resourced county authorities (such as Vestland FK) should be made available to all municipalities – regardless of size or their own technical resources.
 
 ## Input on Solution Choices
 
@@ -123,7 +123,7 @@ There is a need for a dashboard, but no one delivers this today.
 
 ### Shared municipal data platform – KS Digital / Azure Databricks
 
-KS Digital is working on a shared municipal data platform based on Azure Databricks. Such a platform could give municipalities and county municipalities access to a shared infrastructure for storing, processing and analysing data across services and sectors – without each municipality having to build and operate this independently.
+KS Digital is working on a shared municipal data platform based on Azure Databricks. Such a platform could give municipalities and county authorities access to a shared infrastructure for storing, processing and analysing data across services and sectors – without each municipality having to build and operate this independently.
 
 > **⚠ Note:** The details of KS Digital's specific plans, progress and scope for this platform have not been verified in this document. This section should be updated with references to official sources and clarification of what is planned versus decided.
 
@@ -131,7 +131,7 @@ If such a platform is realised, it would be a natural foundation for this case o
 
 ## Possible pilot
 
-One candidate pilot for this case is to **retrieve data from Statistics Norway (SSB) and present it in a dashboard on KS Digital's data platform**, so that municipalities can analyse data about their own municipality and county municipality. Such a pilot builds on the assumption that the data foundation largely already exists, and shifts the effort towards making it available and presenting it.
+One candidate pilot for this case is to **retrieve data from Statistics Norway (SSB) and present it in a dashboard on KS Digital's data platform**, so that municipalities can analyse data about their own municipality and county authority. Such a pilot builds on the assumption that the data foundation largely already exists, and shifts the effort towards making it available and presenting it.
 
 **Asker municipality has volunteered** as a candidate municipality for such a pilot.
 
@@ -141,7 +141,7 @@ The case builds on input from Vestland FK, which has practical experience with a
 
 ## Relevant Project Goals
 
-* Common information models and standardised interfaces that over time cover «all» areas and sectors
+* Shared information models and standardised interfaces that over time cover «all» areas and sectors
 * Reusable and shared solutions – analytical capacity available to all municipalities
 * Simpler user journeys for employees, guardians, students and pupils throughout the learning pathway
 * Collaboration and innovation across public actors in the ecosystem

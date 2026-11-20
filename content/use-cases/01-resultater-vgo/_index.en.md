@@ -1,8 +1,8 @@
 ---
 # id: auto-generated – copied values are overwritten automatically on push
 id: "7f4fa7c1-c0f4-43da-a053-b0d38bff43e8"
-title: 1. Making Results from Upper Secondary Education Accessible
-linkTitle: 1. Results from Upper Secondary
+title: 1. Making Results from Education Accessible
+linkTitle: 1. Results from Education
 weight: 90
 toc: true
 status: In progress
@@ -20,11 +20,13 @@ This case examines how results from upper secondary education can be made availa
 
 The situation in focus is the transition from upper secondary education to the next phase of a young person's life, such as further education, employment, or follow-up services. During this phase, it is essential that relevant information is available at the right time, in the right form, and to the right actor.
 
-Today it is often the young people themselves who must help convey or document their own status. This case highlights how current practice and systems provide limited support for the comprehensive accessibility and reuse of result information across services and levels of government.
+Today it is often the young people themselves who must help convey or document their own status. This case highlights how current practice and systems provide limited support for the comprehensive accessibility and reuse of result information across services and administrative levels.
 
 The most recent update to the Education Act introduced a general legal basis for incorporating this information into the National Certificate Database (NVB), with sharing via the Diploma Portal. A test version of this sharing arrangement is in place, and approval from Udir is awaited before moving to production. However, a certain amount of development work in school administration systems/Vigo is needed to complete this.
 
 The NVB is being renamed as the competence register and is under development with a generic data model. Vocational college results are also to be included this year. It is furthermore planned that individual results will be entered on an ongoing basis from upper secondary schools, along with trade certificates for completed vocational qualifications.
+
+The case also includes looking at the possibility of including results from primary and lower secondary school.
 
 ## What problem does the case address / what is not working well today?
 
@@ -142,11 +144,13 @@ Actors who should participate in a pilot are those who deliver services, use res
 
 The consequences are felt at both individual and system level. Young people may experience uncertainty and disruption during the transition onwards; staff must spend time compensating for the lack of coherence; and organisations see reduced impact from measures and services that depend on correct and accessible information.
 
-The challenges are to a limited extent about a lack of will or effort, but rather about structural barriers related to fragmented systems, unclear information boundaries, and the absence of shared frameworks for making result information accessible and enabling its reuse.
+The challenges have little to do with a lack of will or effort, and more to do with structural barriers related to fragmented systems, unclear information boundaries, and the absence of shared frameworks for making result information accessible and enabling its reuse.
 
 ## What might a desired situation (dream journey) look like?
 
-In a desired situation, young people have easy access to clear and comprehensible information about their own results and competence. Relevant actors have access to the information they need to provide good guidance and follow-up, without unnecessary manual work.
+In a desired situation, young people, and where relevant their parents/guardians, have easy access to clear and comprehensible information about their own results and competence, and it is easy for them to share the information when needed.
+
+Relevant actors have access to the information they need to provide good guidance and follow-up, without unnecessary manual work.
 
 Staff experience better coherence between services and a clearer assignment of responsibility for information flow. Information is reused where appropriate, and contributes to more predictable transitions for young people at an important stage of their lives.
 
@@ -159,6 +163,6 @@ This case is based on experiences from municipalities, county authorities, and n
 The case addresses in particular the following objectives:
 
 * More coherent services for young people in transition between education, employment, and follow-up
-* Better information flow and clearer responsibility across services and levels of government
+* Better information flow and clearer responsibility across services and administrative levels
 * A better foundation for developing shared concepts and information models
 * Learning and experience that can be transferred to other cases and sectors

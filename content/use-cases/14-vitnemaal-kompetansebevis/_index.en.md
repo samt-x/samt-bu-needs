@@ -17,9 +17,11 @@ lastmod: 2026-07-22T13:27:09+02:00
 last_editor: 2benMoen (2benMoen)
 
 ---
+***This is covered by case 1***
 
-
-## Preliminary Description
+## Preliminary description
 
 Documentation and sharing of diplomas and certificates of competence.
+
+Since 2017, SIKT has addressed this through the [Diploma Portal](https://www.vitnemalsportalen.no/) (Vitnemålsportalen) service, which can be extended to support the import of more types of certificates of competence.
 

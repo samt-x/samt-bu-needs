@@ -8,7 +8,4 @@ lastmod: 2026-03-28T10:12:28+01:00
 last_editor: Erik Hagen
 
 ---
-
-Overview of identified use cases for collaboration within childhood development and education.
-
-Select a use case below for more information.
+Here is an overview of identified *cases* for collaboration within childhood and education. Further development and description of the *cases* will take place on an ongoing basis. Prioritised *cases* will be taken forward into work on proofs of concept, pilots and solution development in the project.
