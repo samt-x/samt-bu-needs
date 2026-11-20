@@ -4,7 +4,7 @@ id: "c565217f-afc6-49ed-bc21-9b3b23f918fc"
 title: "Case descriptions"
 linkTitle: "Case descriptions"
 weight: 10
-lastmod: 2026-03-28T10:12:28+01:00
+lastmod: 2026-11-20T02:44:49+01:00
 last_editor: Erik Hagen
 
 ---

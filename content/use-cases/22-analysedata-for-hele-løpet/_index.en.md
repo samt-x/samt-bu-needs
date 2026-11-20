@@ -7,7 +7,7 @@ weight: 300
 toc: true
 status: "Early draft"
 # Valid status values: New | Early draft | In progress | For QA | Approved | Cancelled
-lastmod: 2026-07-28T17:18:57+02:00
+lastmod: 2026-11-20T02:44:49+01:00
 last_editor: Erik Hagen
 
 ---

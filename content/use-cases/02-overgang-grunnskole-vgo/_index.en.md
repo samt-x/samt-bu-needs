@@ -6,7 +6,7 @@ linkTitle: 2. Primary to Upper Secondary
 weight: 100
 toc: true
 status: For QA
-lastmod: 2026-08-05T13:56:13+02:00
+lastmod: 2026-11-20T02:44:49+01:00
 last_editor: KjerstiSteien (KjerstiSteien)
 
 ---
